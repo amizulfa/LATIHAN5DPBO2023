@@ -9,6 +9,13 @@
 - Add confirmation prompt before delete
 - Build project (generate .jar file)
 
+### Desain Program
+Terdapat class Mahasiswa, yang berisi:
+- NIM:String
+- Nama:String
+- Nilai:String
+- Gender:String
+
 ### DESAIN GUI
 ![image](https://user-images.githubusercontent.com/100895165/227719204-a15e25b9-f40f-4c56-8d27-15428c74d323.png)
 
